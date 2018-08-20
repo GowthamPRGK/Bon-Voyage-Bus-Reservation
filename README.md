@@ -31,7 +31,7 @@
 <br>
 <code>python3 manage.py runserver</code>
 </li>
-<li>Open a browser and type:</li>
+<li>Open0 a browser and type:</li>
 <ul>
 <li>127.0.0.1/admin - to manage users.</li>
 <li>127.0.0.1/ - to run the app.</li>
